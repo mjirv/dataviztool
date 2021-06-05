@@ -1,0 +1,3 @@
+{
+    "schemas": ["../jaffle_shop/models/schema.yml"]
+}

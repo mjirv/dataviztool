@@ -1,0 +1,19 @@
+{
+    "visualizations": [
+        {
+            "name": "Bar Chart",
+            "type": "bar",
+            "description": "placeholder"
+        },
+        {
+            "name": "Line Plot",
+            "type": "line",
+            "description": "placeholder"
+        },
+        {
+            "name": "Scatter Plot",
+            "type": "scatter",
+            "description": "placeholder"
+        }
+    ]
+}
